@@ -39,5 +39,5 @@ Drop unnecessary or redundant columns like Cabin.
 This analysis provides insights into the factors that may have influenced survival on the Titanic. The findings can be used to build a predictive model for future studies.
 
 📞 Contact
-Email: oueslatioumayma@gmail.com
+Email: oueslatioumayma157@gmail.com
 LinkedIn: https://www.linkedin.com/in/oumayma-oueslati-12a5462b2/
