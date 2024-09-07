@@ -1,7 +1,9 @@
 # Prodigy InfoTech Internship : Task 2 :
+
 🚢 Titanic Dataset: Data Cleaning and Exploratory Data Analysis (EDA) :
 
 📝 Project Overview : 
+
 This project focuses on performing data cleaning and exploratory data analysis (EDA) on the Titanic dataset from Kaggle. The goal is to explore relationships between various features (such as passenger age, gender, ticket class, etc.) and identify patterns that may have influenced survival rates during the Titanic disaster.
 
 📊 Dataset :
@@ -47,9 +49,11 @@ Drop unnecessary or redundant columns like Cabin.
 🐼 Pandas: For data manipulation and cleaning.
 📊 Matplotlib/Seaborn: For data visualization.
 
-📌 Conclusion
+📌 Conclusion :
+
 This analysis provides insights into the factors that may have influenced survival on the Titanic. The findings can be used to build a predictive model for future studies.
 
-📞 Contact
+📞 Contact :
+
 Email: oueslatioumayma157@gmail.com
 LinkedIn: https://www.linkedin.com/in/oumayma-oueslati-12a5462b2/
