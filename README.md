@@ -33,20 +33,35 @@ The Titanic dataset contains information about passengers, including:
 ⚓ Embarked: Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton).
 
 🛠️ Steps in the Project :
+
 1. 🧹 Data Cleaning
+   
 Handle missing data in columns such as Age, Cabin, and Embarked.
+
 Convert categorical variables like Sex and Embarked into numerical values for analysis.
+
 Drop unnecessary or redundant columns like Cabin.
-2. 🔍 Exploratory Data Analysis (EDA) :
+
+3. 🔍 Exploratory Data Analysis (EDA) :
+   
 📈 Univariate Analysis: Explore individual columns, e.g., the distribution of passengers' ages, gender, or ticket class.
+
 🔗 Bivariate Analysis: Investigate relationships between two variables, such as how survival rates differ by age, gender, or class.
+
 📊 Multivariate Analysis: Analyze the combined effect of multiple factors on survival (e.g., age, class, and fare).
-3. 💡 Key Insights :
+
+5. 💡 Key Insights :
+   
 -Discover patterns and trends in the data, such as the influence of age, gender, or class on survival.
+
 -Highlight interesting findings, like which groups of passengers had higher survival rates.
+
 🛠️ Tools and Libraries :
+
 🐍 Python: The programming language used for data analysis.
+
 🐼 Pandas: For data manipulation and cleaning.
+
 📊 Matplotlib/Seaborn: For data visualization.
 
 📌 Conclusion :
@@ -56,4 +71,5 @@ This analysis provides insights into the factors that may have influenced surviv
 📞 Contact :
 
 Email: oueslatioumayma157@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/oumayma-oueslati-12a5462b2/
