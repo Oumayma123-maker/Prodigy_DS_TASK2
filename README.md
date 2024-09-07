@@ -7,15 +7,25 @@ This project focuses on performing data cleaning and exploratory data analysis (
 📊 Dataset :
 The Titanic dataset contains information about passengers, including:
 🧍‍♂️🧍‍♀️ Survival: Whether the passenger survived (0 = No, 1 = Yes).
+
 🎟️ Pclass: Ticket class (1 = First, 2 = Second, 3 = Third).
+
 📛 Name: Name of the passenger.
+
 👤 Sex: Gender of the passenger.
+
 👶 Age: Age of the passenger.
+
 👨‍👩‍👦 SibSp: Number of siblings/spouses aboard the Titanic.
+
 👨‍👧 Parch: Number of parents/children aboard the Titanic.
+
 🎫 Ticket: Ticket number.
+
 💵 Fare: Fare paid by the passenger.
+
 🏠 Cabin: Cabin number.
+
 ⚓ Embarked: Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton).
 
 🛠️ Steps in the Project :
