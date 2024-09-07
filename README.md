@@ -5,7 +5,9 @@
 This project focuses on performing data cleaning and exploratory data analysis (EDA) on the Titanic dataset from Kaggle. The goal is to explore relationships between various features (such as passenger age, gender, ticket class, etc.) and identify patterns that may have influenced survival rates during the Titanic disaster.
 
 📊 Dataset :
+
 The Titanic dataset contains information about passengers, including:
+
 🧍‍♂️🧍‍♀️ Survival: Whether the passenger survived (0 = No, 1 = Yes).
 
 🎟️ Pclass: Ticket class (1 = First, 2 = Second, 3 = Third).
